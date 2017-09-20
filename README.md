@@ -17,9 +17,9 @@ Este repositorio forma parte del proyecto https://github.com/EliasBF/photobooks-
 
 - Construye la aplicación
 
-  '''
+	```
   npm install
   npm run build
-  '''
+	```
 
-##### Listo, para iniciar ejecuta '''npm start'''.
+##### Listo, para iniciar ejecuta ```npm start```.
